@@ -1,0 +1,18 @@
+vlsi_chatbot_app/
+│
+├── app.py                     # Main Flask app
+├── requirements.txt           # Python dependencies
+├── README.md                  # Project description
+├── config.py                  # Gemini API key & config
+├── .gitignore                 # Ignore env, __pycache__, etc.
+│
+├── templates/
+│   └── index.html             # Elegant full-screen UI
+│
+├── static/
+│   ├── css/
+│   │   └── style.css          # Optional CSS if separating from HTML
+│   └── js/
+│       └── chat.js            # Optional JS if separating from HTML
+│
+└── LICENSE                    # MIT License or any license
