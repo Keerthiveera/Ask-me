@@ -5,7 +5,7 @@
 Ask Me is an elegant, full-screen AI chatbot built using Flask, Python, and Gemini API.
 It provides professional, line-by-line answers to your questions with a modern, interactive interface.
 
-Features
+# Features
 
 Powered by LLM (Gemini API) – provides expert answers to user questions.
 
@@ -19,7 +19,7 @@ Responsive design – works on desktop and mobile.
 
 Easy deployment – ready for local or cloud deployment (Render, Heroku, GCP, etc.).
 
-How it Works
+# How it Works
 
 User types a question in the chat interface.
 
@@ -31,11 +31,11 @@ Gemini returns a text response.
 
 The response is split line by line and displayed gradually in the frontend.
 
-Flow Diagram:
+# Flow Diagram:
 
 User → Frontend UI → Flask Backend → Gemini LLM → Backend → Frontend → User
 
-Installation
+# Installation
 
 Clone the repository:
 
@@ -50,7 +50,7 @@ source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 
 
-Install dependencies:
+# Install dependencies:
 
 pip install -r requirements.txt
 
@@ -67,7 +67,7 @@ python app.py
 
 Open your browser at http://127.0.0.1:5000.
 
-Usage
+# Usage
 
 Type any question, e.g.:
 
@@ -79,7 +79,7 @@ Type any question, e.g.:
 
 The bot will respond line by line, giving a professional explanation.
 
-Screenshots
+# Screenshots
 
 Chat Interface Example:
 
@@ -93,7 +93,7 @@ Bot: A D flip-flop is a digital memory circuit.
 
 (Add actual screenshots or GIFs in your repository for better presentation.)
 
-Deployment
+# Deployment
 
 Locally: just run python app.py.
 
