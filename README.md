@@ -1,5 +1,3 @@
-# vlsi_chatbot
-
 # Ask Me
 
 Ask Me is an elegant, full-screen AI chatbot built using Flask, Python, and Gemini API.
