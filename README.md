@@ -80,15 +80,9 @@ Type any question, e.g.:
 The bot will respond line by line, giving a professional explanation.
 
 # Screenshots
+# image 1
+![Screenshot](C:\Users\Admin\Pictures\Camera Roll\Ask me_1.png)
 
-Chat Interface Example:
-
-[ Ask Me ]
-User: Explain a D flip-flop
-Bot: A D flip-flop is a digital memory circuit.
-     It stores one bit of data.
-     It has a clock input to control timing.
-     The output changes only on the clock edge.
 
 
 (Add actual screenshots or GIFs in your repository for better presentation.)
