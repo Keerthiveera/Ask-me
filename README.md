@@ -81,8 +81,13 @@ The bot will respond line by line, giving a professional explanation.
 
 # Screenshots
 # image 1
-![Screenshot](C:\Users\Admin\Pictures\Camera Roll\Ask me_1.png)
+![Screenshot](Ask me_1.png)
 
+# image 2
+![Screenshot](Ask me_3.png)
+
+# image 3
+![Screenshot](Ask me_2.png)
 
 
 (Add actual screenshots or GIFs in your repository for better presentation.)
